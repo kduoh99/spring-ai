@@ -34,6 +34,7 @@ dependencies {
 
     // Spring AI
     implementation("org.springframework.ai:spring-ai-starter-model-openai")
+    implementation("org.springframework.ai:spring-ai-vector-store")
 
     // PDF 처리
     implementation("org.apache.pdfbox:pdfbox:3.0.3")
