@@ -35,6 +35,9 @@ dependencies {
     // Spring AI
     implementation("org.springframework.ai:spring-ai-starter-model-openai")
 
+    // PDF 처리
+    implementation("org.apache.pdfbox:pdfbox:3.0.3")
+
     // Swagger
     implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.7.0")
 
